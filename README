@@ -1,0 +1,8 @@
+The pilot flies in circles and performs fast circular "funnels".
+
+As the speed of the circles increases, a steeper pitch attitude must be maintained in order to generate sufficient centripetal acceleration.
+At high speeds, this maneuver is known as a "funnel", and results in a high load (G-force) on the helicopter.
+
+Note:  frequent vision outages occur in this dataset where the pilot accidently flies outside of the area within our cameras' views.
+       Most of these outages should be short, but may result in poor state estimates.
+
